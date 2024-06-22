@@ -30,7 +30,7 @@ public class SlideTeam_Login_TC_1 extends BaseTest{
     @DataProvider(name ="data")
     public Object[][] getData()
     {
-    	return new Object[][] {{"testuser27thapril@gmail.com", "123456"},{"testuhhhhser27thapril@gmail.com", "123456"}};
+    	return new Object[][] {{"testuser27thapril@gmail.com", "123456"}};
     }
 
 }

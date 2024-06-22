@@ -7,7 +7,7 @@
         <methods>
           <include name="initializeDriver"/>
           <include name="tearDown"/>
-          <include name="ST_TC_1" invocation-numbers="1"/>
+          <include name="ST_TC_1"/>
         </methods>
       </class> <!-- testRunner.SlideTeam_Login_TC_1 -->
     </classes>
